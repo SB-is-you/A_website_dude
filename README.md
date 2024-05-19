@@ -1,4 +1,4 @@
 # URAY.com
 # Pls type html on back of the url
-# ex:XXX.com/XXX.html
-INTRO:ONLY A HTML TESTING WEBSITE
+# ex:https://sb-is-you.github.io/uray/XXX.html
+INTRO:ONLY A HTML WEBSITE AND SOME SOURCE
